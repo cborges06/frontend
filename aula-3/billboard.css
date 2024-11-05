@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f8ff; /* Cor de fundo suave */
+    font-family: Arial, sans-serif; /* Fonte legível */
+    color: #333; /* Cor do texto */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilização da tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd; /* Bordas da tabela */
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #0024f1; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto do cabeçalho */
+}
